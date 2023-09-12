@@ -1,0 +1,6 @@
+{
+    "editor.stickyTabStops": true,
+    "editor.stickyScroll.enabled": true,
+    "editor.stickyScroll.maxLineCount": 10,
+    "notebook.stickyScroll.enabled": true
+}
